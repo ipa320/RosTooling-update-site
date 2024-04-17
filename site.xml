@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.fraunhofer.ipa.ros.feature_3.0.0.202310021224.jar" id="de.fraunhofer.ipa.ros.feature" version="3.0.0.202310021224"/>
+   <feature url="features/de.fraunhofer.ipa.ros.feature_3.0.0.202404171230.jar" id="de.fraunhofer.ipa.ros.feature" version="3.0.0.202404171230"/>
 </site>
